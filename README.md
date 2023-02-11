@@ -3,3 +3,4 @@ My Course Files/Py. Notebooks of Python 3. This repository is for notes taking a
 
 Credits: Content in this is Course taught by Jose Portilla. Also, inculding the some excerises and assignments from other sources. 
 https://www.udemy.com/user/joseportilla
+Content Copyright by Pierian Data
